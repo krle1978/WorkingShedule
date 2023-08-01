@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33015.44
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingShedule", "WorkingShedule\WorkingShedule.csproj", "{6EAEC522-1CBC-4C15-96F3-700CF751183A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Working Shedule SetUp", "Working Shedule SetUp\Working Shedule SetUp.vdproj", "{34283F78-A6C9-4BA9-987E-E78A61E95A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EAEC522-1CBC-4C15-96F3-700CF751183A}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAEC522-1CBC-4C15-96F3-700CF751183A}.All|Any CPU.Build.0 = Release|Any CPU
+		{6EAEC522-1CBC-4C15-96F3-700CF751183A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAEC522-1CBC-4C15-96F3-700CF751183A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{6EAEC522-1CBC-4C15-96F3-700CF751183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAEC522-1CBC-4C15-96F3-700CF751183A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34283F78-A6C9-4BA9-987E-E78A61E95A2E}.All|Any CPU.ActiveCfg = Debug
+		{34283F78-A6C9-4BA9-987E-E78A61E95A2E}.Debug|Any CPU.ActiveCfg = Debug
+		{34283F78-A6C9-4BA9-987E-E78A61E95A2E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FECA121-21FB-43C3-8F3E-9D68A9B5F55C}
+	EndGlobalSection
+EndGlobal
